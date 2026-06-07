@@ -1,0 +1,5 @@
+From R1:
+ping 10.0.0.2
+
+From R2:
+ping 10.0.0.1
