@@ -1,4 +1,4 @@
-CCNA LAB 2 — Basic IPv4 Addressing + Ping
+CCNA-VLANs-Lab — Basic IPv4 Addressing + Ping
 
 Devices:
 
