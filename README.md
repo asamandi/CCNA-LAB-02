@@ -1,17 +1,15 @@
-CCNA-VLANs-Lab — Basic IPv4 Addressing + Ping
+# CCNA-VLANs-Lab — Basic IPv4 Addressing + Ping
 
-Devices:
-
-R1
-R2
-
-
-TOPOLOGY
-
-R1 <——> R2
+### Devices:
+- R1
+- R2
 
 
-IP Addressing Plan
+### TOPOLOGY
+- R1 <——> R2
+
+
+### IP Addressing Plan
 
 | Device | Interface | IP address | Subnet Mask   |
 | ------ | --------- | ---------- | ------------- |
